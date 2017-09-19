@@ -1,2 +1,2 @@
 # learning
-Containing learning code from "Learn "
+Containing learning code from "Learn Python The Hard Way"
