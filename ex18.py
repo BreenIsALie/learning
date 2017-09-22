@@ -1,0 +1,1 @@
+# exercise 18: names, variables, code, functions
